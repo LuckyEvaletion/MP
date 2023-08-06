@@ -1,2 +1,3 @@
-[ Loader ]
-+ Fixed "Script not active" error. (mb, forgot to replace the loader url for Doors)
+[ Site ]
++ Added FAQ, Changelogs page. (https://mshub.mstudio45.com/changelogs)
++ Changelogs are now sent through a bot.
