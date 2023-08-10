@@ -1,0 +1,10 @@
+[ DOORS (v4.3.3) ]
++ Added "No Glitch"
++ Fixed Ambush killing you almost every time with godmode (should not kill you that much now)Y
++ Fixed Locker ESP (The Rooms)
++ Fixed Auto A-1000 locking your speed to 21 (MSHUB+)
++ Fixed Auto A-1000 going to occupied lockers (i hope)
++ Fixed "FE Inf Jack" only showing on Fluxus (might not work good on Electron)
+
+[ Loader ]
++ Fixed some issues with key system
