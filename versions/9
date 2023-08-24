@@ -1,0 +1,6 @@
+[ DOORS (v4.3.6) ]
++ Added "Fly Speed" (mainly for MSHUB+)
++ Fixed Third Person
++ Fixed Visual Godmode
++ Fixed SUPER HARD MODE not loading for Electron
++ Fixed some small bugs
