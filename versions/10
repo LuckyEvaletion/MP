@@ -1,0 +1,9 @@
+[ Loader ]
++ Added Script Selector
+
+[ DOORS (v4.3.7) ]
++ Fixed "The Rooms" & "SUPER HARD MODE" for the modifiers
++ Some small bug fixes for the update
+
+[ DOORS LOBBY (v1.2.1) ]
++ Made "Solo" and "SUPER HARD MODE" joiners use the new Create Elevator system
