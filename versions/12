@@ -1,0 +1,12 @@
+[ DOORS (v4.3.8) ]
++ Added "Body Chams", "Invisible Body"
++ Added custom config folders for The Rooms, Rooms Modifier & SUPER HARD MODE
++ Changing ESP Colors will change instantly while you are changing it
++ Made "Tracers" enable/disable if you toggle it on/off
++ Made some changes for Play Again button
++ Made No Gates, No Puzzle Door, No Skeleton Door & No A-000 Door Locks run when you toggle them on
++ Improved Speed Bypass Method 1 [MSHUB+]
++ Improved fixes for lagging (loading room 100 and 50, lag during cutscenes)
+
++ Fixed some small issues
+- INFO: Spam other players tools is maybe patched due to LSPLASH added remote protection to some remotes.
