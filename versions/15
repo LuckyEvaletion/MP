@@ -1,3 +1,13 @@
 [ MSHUB ]
 + New site released!
-+ Also dw release soon :)
+
+[ Doors (v4.0.0) ]
++ RELEASED!
++ Added "Halt" and "Screech" notifications.
++ Added "Body Cham Texture" (ty geodude for the idea)
++ Added "Entities" tabbox in Visual tab
++ Added "No Hiding Vignette" and "Transparent Wardrobes"
++ Fixed Anti Dupe not working
++ Fixed some old bugs
++ Fixed some mistakes in ESP and Aura functions
+- Removed "Locked Door aura", "Instant Use"
